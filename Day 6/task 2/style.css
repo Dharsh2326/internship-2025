@@ -1,0 +1,19 @@
+/* Write your code here: */
+h1,h2{
+    color: blueviolet;
+
+}
+p[class="done"]{
+    color: maroon;
+}
+ul>li{
+    color: blue;
+}
+ul>li[class="done"]
+{
+    color: green;
+}
+ul p.done{
+    font-size: 10px;
+    color:black;
+}
