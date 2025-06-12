@@ -9,17 +9,18 @@ div{
     text-align: center;
 }
 h1{
-    font-size: 20px;
+    font-size: 40px;
     color: white;
     width:100%;
     font-family:"Libre Baskerville",serif;
+    text-transform: uppercase;
 }
- div>img{
+img{
     border:5px solid white ;
-    width: 100%;
+    width: 600px;
+    margin-top: 30px;
 }
 p{
     color: white;
     text-align: center;
-    
 }
