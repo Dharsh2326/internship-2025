@@ -1,0 +1,7 @@
+.cardgrid{
+    display: inline-flexbox;
+     gap: 20px;            
+  justify-content: center; 
+  flex-wrap: wrap;      
+  padding: 20px;
+}
